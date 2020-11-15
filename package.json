@@ -8,7 +8,13 @@
     "@testing-library/user-event": "^12.2.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-icons": "^3.11.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.2.2",
+    "react-router-hash-link-offset": "^1.2.0",
     "react-scripts": "4.0.0",
+    "react-scroll": "^1.8.1",
+    "react-scroll-to-component": "^1.0.2",
     "web-vitals": "^0.2.4"
   },
   "scripts": {

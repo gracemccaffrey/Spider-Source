@@ -1,0 +1,50 @@
+
+  /* CSS For About Section */
+  .about-text > h1 {
+    text-align: left;
+  }
+  .about-text {
+    display: flex;
+    flex-flow: column;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+    color: white;
+    margin-bottom: 15px;
+  }
+  /* CSS For Example Section */
+  .example-text > h1 {
+    text-align: right;
+  }
+
+  .example-text {
+    display: flex;
+    flex-flow: column;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+    color: white;
+    margin-top:10px;
+
+  }
+  /* CSS For Both */
+  h1{
+    font-family: 'Gugi', cursive;
+    font-size: 60px;
+  }
+  p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin-top: 5px;
+    font-size: 20px;
+    letter-spacing: .4px;
+    text-align: justify;
+  }
+
+  .belowFold{
+    background-color: #141414;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
